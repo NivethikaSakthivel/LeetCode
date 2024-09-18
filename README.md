@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
