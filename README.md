@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1899-count-items-matching-a-rule](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2714-left-and-right-sum-differences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3582-find-indices-of-stable-mountains](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Bit Manipulation
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1899-count-items-matching-a-rule](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
