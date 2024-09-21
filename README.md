@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
