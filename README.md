@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
 ## Reservoir Sampling
 |  |
 | ------- |
