@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0398-random-pick-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
