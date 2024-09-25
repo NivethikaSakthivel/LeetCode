@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
