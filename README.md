@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0268-missing-number) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
