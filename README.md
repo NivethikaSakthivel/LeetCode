@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0414-third-maximum-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0392-is-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0729-my-calendar-i) |
