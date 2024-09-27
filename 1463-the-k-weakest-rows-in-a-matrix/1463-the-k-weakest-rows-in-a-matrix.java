@@ -1,6 +1,5 @@
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        Map<Integer, Integer> map=new HashMap<>();
         int[] sum=new int[mat.length];
         for(int i=0;i<mat.length;i++){
             int j=0;
