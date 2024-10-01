@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1899-count-items-matching-a-rule](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Recursion
 |  |
 | ------- |
