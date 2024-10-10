@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Simulation
 |  |
 | ------- |
