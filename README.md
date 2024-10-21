@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2107-find-unique-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
