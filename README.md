@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
