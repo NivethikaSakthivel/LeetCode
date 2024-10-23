@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
