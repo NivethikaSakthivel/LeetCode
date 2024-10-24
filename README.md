@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
