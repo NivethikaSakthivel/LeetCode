@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Sorting
