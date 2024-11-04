@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
