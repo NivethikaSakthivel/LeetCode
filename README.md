@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3582-find-indices-of-stable-mountains](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
