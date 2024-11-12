@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
