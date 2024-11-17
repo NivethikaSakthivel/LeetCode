@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -603,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
