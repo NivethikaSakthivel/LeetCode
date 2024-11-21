@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Sliding Window
 |  |
