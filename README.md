@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3189-find-champion-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Monotonic Queue
 |  |
