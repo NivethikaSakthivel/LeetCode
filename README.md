@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2201-valid-arrangement-of-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
+| [2201-valid-arrangement-of-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3189-find-champion-ii) |
@@ -668,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
