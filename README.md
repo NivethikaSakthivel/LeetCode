@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1972-rotating-the-box) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Rolling Hash
 |  |
 | ------- |
