@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3451-string-compression-iii) |
 ## Math
@@ -455,14 +457,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
 |  |
