@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0217-contains-duplicate) |
