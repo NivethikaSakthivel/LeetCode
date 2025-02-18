@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0075-sort-colors) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0787-sliding-puzzle) |
