@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0075-sort-colors) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0787-sliding-puzzle) |
