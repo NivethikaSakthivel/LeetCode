@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
