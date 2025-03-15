@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0287-find-the-duplicate-number) |
