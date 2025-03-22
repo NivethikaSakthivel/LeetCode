@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0075-sort-colors) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
