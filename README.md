@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
