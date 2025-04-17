@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
