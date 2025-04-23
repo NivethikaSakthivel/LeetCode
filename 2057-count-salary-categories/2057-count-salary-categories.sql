@@ -7,7 +7,7 @@ with salarycat as (
 ),
 accountgrp as (
 select case when income<20000 then "Low Salary"
-    when income between 19999 and 50000 then "Average Salary"
+    when income between 20000 and 50000 then "Average Salary"
     else "High Salary"
     end as category, count(*) as accounts_count
 from Accounts
