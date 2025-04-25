@@ -5,7 +5,6 @@ class Solution {
         }
         char[] s1=s.toCharArray();
         Arrays.sort(s1);
-        
         char[] t1=t.toCharArray();
         Arrays.sort(t1);
         for(int i=0;i<s1.length;i++){
