@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
