@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2089-maximum-matrix-sum) |
