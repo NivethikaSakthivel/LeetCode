@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
