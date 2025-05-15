@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0233-number-of-digit-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0279-perfect-squares) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0273-integer-to-english-words) |
