@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
+| [0587-erect-the-fence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0587-erect-the-fence) |
 | [0670-maximum-swap](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0335-self-crossing) |
+| [0587-erect-the-fence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0587-erect-the-fence) |
 ## Shortest Path
 |  |
 | ------- |
