@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
+| [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
