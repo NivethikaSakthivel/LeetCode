@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1940-maximum-xor-for-each-query](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1972-rotating-the-box](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2507-number-of-common-factors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2507-number-of-common-factors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
