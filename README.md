@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0859-design-circular-deque](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0859-design-circular-deque) |
+| [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0781-basic-calculator-iv) |
 | [0782-jewels-and-stones](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0812-rotate-string) |
+| [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-reaching-points](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0796-reaching-points) |
 | [0798-transform-to-chessboard](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
+| [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 ## Eulerian Circuit
 |  |
 | ------- |
