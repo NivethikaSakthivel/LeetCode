@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0335-self-crossing) |
 | [0398-random-pick-index](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -858,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
