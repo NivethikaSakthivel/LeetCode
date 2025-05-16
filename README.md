@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0679-24-game) |
 | [0781-basic-calculator-iv](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0781-basic-calculator-iv) |
+| [0796-reaching-points](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0796-reaching-points) |
 | [0798-transform-to-chessboard](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
