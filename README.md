@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1372-check-if-it-is-a-good-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1012-equal-rational-numbers](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1012-equal-rational-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1372-check-if-it-is-a-good-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0258-add-digits) |
+| [1372-check-if-it-is-a-good-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2507-number-of-common-factors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
