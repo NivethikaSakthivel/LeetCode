@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
 | [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 ## String Matching
 |  |
 | ------- |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2201-valid-arrangement-of-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -902,4 +907,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
+## Topological Sort
+|  |
+| ------- |
+| [0949-cat-and-mouse](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0949-cat-and-mouse) |
 <!---LeetCode Topics End-->
