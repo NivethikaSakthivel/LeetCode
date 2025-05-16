@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0679-24-game) |
 | [0729-my-calendar-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0739-daily-temperatures) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0679-24-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0089-gray-code) |
+| [0679-24-game](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0679-24-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2107-find-unique-binary-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2107-find-unique-binary-string) |
