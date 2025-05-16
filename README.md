@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2507-number-of-common-factors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Data Stream
