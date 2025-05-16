@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0873-guess-the-word](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0873-guess-the-word) |
+| [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0486-predict-the-winner) |
 | [0823-split-array-with-same-average](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
 | [1906-maximize-score-after-n-operations](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1906-maximize-score-after-n-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0923-super-egg-drop](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0923-super-egg-drop) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
