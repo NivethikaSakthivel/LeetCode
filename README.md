@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [3321-type-of-triangle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NivethikaSakthivel/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/NivethikaSakthivel/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
