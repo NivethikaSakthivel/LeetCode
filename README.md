@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0927-sum-of-subsequence-widths](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/NivethikaSakthivel/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NivethikaSakthivel/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
