@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public int[] productExceptSelf(int[] nums) {
         int[] pre=new int[nums.length];
         int[] suf=new int[nums.length];
